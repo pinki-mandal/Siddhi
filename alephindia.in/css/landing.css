@@ -1,0 +1,170 @@
+
+
+.iqrar {
+	padding: 15px 15px 15px 15px;
+	position: absolute;
+    right: 10%;
+    top: 22%;
+    left: 63%;
+    z-index: 10;
+    color: #fff;
+    text-align: center;
+	background-color: #2b3034;
+	}
+	
+	.webinarmar{
+	margin: 0px 0px 	
+		
+	}
+	
+	.iqrarslide {
+		
+		text-transform: uppercase;
+		border-radius: 10px;
+		height: 250px;
+	}
+	
+	
+	.webinar-date {
+    display: inline-block;
+    vertical-align: middle;
+    width: auto;
+    text-transform: uppercase;
+    line-height: 1;
+	font-size: 1.75rem;
+	}
+	
+	.iqrarday {
+    display: table-cell;
+    vertical-align: middle;
+	font-size: 3rem;
+    font-weight: 500;
+    padding: 0px 5px 0px 0px;
+	}
+	
+	
+	.date__wrap {
+		display:table-cell;
+		vertical-align:middle;
+		}
+		
+		
+		
+		
+		
+.iqrarmonth {
+    display: block;
+    font-size: 1.1875rem;
+		}
+		
+		
+		.iqraryear {
+    display: block;
+    font-size: 1.1875rem;
+		}
+		
+		
+.webinar__time {
+    border: 0;
+    font-size: 2rem;
+    margin-left: 0;
+    font-weight: 500;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+
+.upnext {
+	padding: 15px 15px 15px 15px;
+    color: #fff;
+    
+    background-color: #2b3034;
+}
+
+
+
+.starttime{
+	
+	display: inline-block;
+	
+
+}
+
+	.upnex {
+	display: block;
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-top: 5px;
+	}
+	
+	.list-item {
+    display: block;
+    width: 100%;
+    border-bottom: 1px solid #e3e8ea;
+}
+
+
+
+.list-link {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding: 30px 0;
+    overflow: hidden;
+    transition: background 125ms cubic-bezier(.77,0,.175,1);
+	display: inline-block;
+}
+
+
+.list-title {
+	display: inline-block;
+    margin: 25px 0 0;
+    font-size: 1.8rem;
+    font-weight: 500;
+    text-transform: none;
+	padding-left: 20px;
+}
+
+
+.list-action {
+    display: inline-block;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    -ms-flex-negative: 1;
+    flex-shrink: 1;
+    -ms-flex-preferred-size: 150px;
+    flex-basis: 150px;
+}
+
+
+
+.button, .clear-multi .gfield_time_ampm select[type=submit], .form-field select[type=submit], .ginput_complex .address_country select[type=submit], .ginput_container_multiselect select[type=submit], .ginput_container_select select[type=submit], .mag__intro[data-theme=light] .button--inverted, button, input[type=submit], textarea[type=submit] {
+    display: inline-block;
+    padding: 18px 50px;
+    background-color: #002e5b;
+    border: 0;
+    border-radius: 25px;
+    box-shadow: none;
+    color: #fff;
+    font-family: Gotham SSm A,Gotham SSm B,Gotham,Helvetica,Arial,sans-serif;
+    font-size: .875rem;
+    font-weight: 500;
+    line-height: 1;
+    letter-spacing: -.014em;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    vertical-align: middle;
+    -webkit-font-smoothing: antialiased;
+    cursor: pointer;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    transition: background-color 125ms 125ms;
+	
+}
